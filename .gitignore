@@ -222,3 +222,6 @@ __marimo__/
 
 # pdf
 .pdf
+
+#.DS_Store
+.DS_Store
