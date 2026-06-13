@@ -69,16 +69,16 @@ Independent living difficulty was substantially more important among adults with
 
 ### Repository Structure
 
+```text
 project4_models/
-│
-├── project4_models.ipynb
-├── report.qmd
-├── report.html
-├── images/
-│   ├── shap_cognitive_difficulty.png
-│   └── shap_no_cognitive_difficulty.png
-│
-└── README.md
+├── .gitignore
+├── README.md
+├── project_04.py
+├── report.md
+└── images/
+    ├── shap_cognitive_difficulty.png
+    └── shap_no_cognitive_difficulty.png
+```
 
 <br>
 
